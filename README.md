@@ -65,9 +65,10 @@ A project designed to manage student information efficiently.
 
 ## 📊 GitHub Stats
 
-![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAKESHZVM&show_icons=true&theme=dark&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAKESHZVM&layout=compact&theme=dark&cache_seconds=86400)
+<p align="center">
+  <img src="./profile/stats.svg" alt="Rakesh's GitHub Stats" width="48%">
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%">
+</p>
 
 # 🌐 Connect With Me
 
