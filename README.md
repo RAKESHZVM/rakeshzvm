@@ -63,13 +63,11 @@ A project designed to manage student information efficiently.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshzvm&show_icons=true&theme=tokyonight)
+![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAKESHZVM&show_icons=true&theme=dark&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshzvm&layout=compact&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAKESHZVM&layout=compact&theme=dark&cache_seconds=86400)
 
 # 🌐 Connect With Me
 
